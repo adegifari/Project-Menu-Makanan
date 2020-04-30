@@ -1,0 +1,137 @@
+{
+    "menu": [
+        {
+            "kategori"  : "komplit",
+            "nama"      : "BBQ Burger Combo",
+            "deskripsi" : "Menu Burger Gede dengan kentang plus coca cola dijamin kenyang.",
+            "harga"     : 70000,
+            "gambar"    : "bbq-burger-combo.png"
+        },
+        {
+            "kategori"  : "komplit",
+            "nama"      : "Colonel Rice Combo",
+            "deskripsi" : "Menu Nasi Combo yang sangat Ajib dan dijamin bikin kenyang.",
+            "harga"     : 80000,
+            "gambar"    : "colonel-rice-combo.png"
+        },
+        {
+            "kategori"  : "komplit",
+            "nama"      : "Crispy Box",
+            "deskripsi" : "Menu Ayam yang sangat banyak dengan 3 ayam plus mocha float.",
+            "harga"     : 86000,
+            "gambar"    : "crispy-box.png"
+        },
+        {
+            "kategori"  : "komplit",
+            "nama"      : "Fish Fillet Combo",
+            "deskripsi" : "Burger Ikan yang ajib abis dengan kentang pasti kenyang ditambah coca cola yang menyegarkan.",
+            "harga"     : 70000,
+            "gambar"    : "fish-fillet-combo.png"
+        },
+        {
+            "kategori"  : "komplit",
+            "nama"      : "Wingers Combo",
+            "deskripsi" : "Menu dengan sayap ayam yang banyak di jamin enak dan nagih.",
+            "harga"     : 60000,
+            "gambar"    : "wingers-combo.png"
+        },
+        {
+            "kategori"  : "sarapan",
+            "nama"      : "9 PCS Bucket",
+            "deskripsi" : "Menu ayam 9 dalam ember.",
+            "harga"     : 120000,
+            "gambar"    : "9-pcs-bucket.png"
+        },
+        {
+            "kategori"  : "sarapan",
+            "nama"      : "Pom Pom",
+            "deskripsi" : "Menu maknan khas jaman penjajah.",
+            "harga"     : 50000,
+            "gambar"    : "pom-pom.png"
+        },
+        {
+            "kategori"  : "sarapan",
+            "nama"      : "Super Family",
+            "deskripsi" : "Menu Sarapan untuk sekeluarga.",
+            "harga"     : 120000,
+            "gambar"    : "super-family.png"
+        },
+        {
+            "kategori"  : "sarapan",
+            "nama"      : "Winger Bucket",
+            "deskripsi" : "Sayam Ayam cripsy di dalam ember.",
+            "harga"     : 180000,
+            "gambar"    : "winger-bucket.png"
+        },
+        {
+            "kategori"  : "minuman",
+            "nama"      : "Mango Float",
+            "deskripsi" : "Minuman Buah Menyegarkan.",
+            "harga"     : 20000,
+            "gambar"    : "mango-float.png"
+        },
+        {
+            "kategori"  : "minuman",
+            "nama"      : "Mirinda",
+            "deskripsi" : "Terlihat menyegarkan bukan?.",
+            "harga"     : 20000,
+            "gambar"    : "mirinda.png"
+        },
+        {
+            "kategori"  : "minuman",
+            "nama"      : "Mocha Float",
+            "deskripsi" : "Untuk Pencinta kopi ini menu minuman paling pas kurasa.",
+            "harga"     : 30000,
+            "gambar"    : "mango-float.png"
+        },
+        {
+            "kategori"  : "minuman",
+            "nama"      : "Ovaltine",
+            "deskripsi" : "Untuk anak muda yang masih dalam masa pertumbuhan nih.",
+            "harga"     : 15000,
+            "gambar"    : "ovaltine.png"
+        },
+        {
+            "kategori"  : "minuman",
+            "nama"      : "Super O2",
+            "deskripsi" : "Minuman penambah ION.",
+            "harga"     : 20000,
+            "gambar"    : "super-o2.png"
+        },
+        {
+            "kategori"  : "praktis",
+            "nama"      : "Fish Bento",
+            "deskripsi" : "Yang ga mau ribet mau langsung hap dan bisa dibawa kemana mana nih menu yang pas buat ngemil.",
+            "harga"     : 40000,
+            "gambar"    : "fish-bento.png"
+        },
+        {
+            "kategori"  : "praktis",
+            "nama"      : "Burger",
+            "deskripsi" : "Terlihat Enak dan Bisa langsung Dimakan dengan cepat bukan.",
+            "harga"     : 35000,
+            "gambar"    : "burger.png"
+        },
+        {
+            "kategori"  : "praktis",
+            "nama"      : "Oriental Bento",
+            "deskripsi" : "Buat kamu yang suka ngembil yang pedas pedas.",
+            "harga"     : 30000,
+            "gambar"    : "oriental-bento.png"
+        },
+        {
+            "kategori"  : "praktis",
+            "nama"      : "Twisty",
+            "deskripsi" : "Menu yang praktis banget nih.",
+            "harga"     : 30000,
+            "gambar"    : "twisty.png"
+        },
+        {
+            "kategori"  : "praktis",
+            "nama"      : "Zuper Krunch",
+            "deskripsi" : "Menu praktis tapi saya jamin kamu pasti kenyang banget deh.",
+            "harga"     : 45000,
+            "gambar"    : "zuper-krunch.png"
+        }
+    ]
+}
